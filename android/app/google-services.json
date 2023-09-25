@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387197450939",
+    "project_id": "madauth-3dd1a",
+    "storage_bucket": "madauth-3dd1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387197450939:android:fa7bb32ec5c4c5d059879e",
+        "android_client_info": {
+          "package_name": "com.example.leaf_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4q3H5BOnyfgzi0Js8hZqoI-6bbBLF3gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
